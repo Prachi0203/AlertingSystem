@@ -2,9 +2,9 @@
 ### Avoid Contact Stay Intact
 
 # Technologies used
-- ![Python](https://www.python.org/) 
-- ![OpenCV](https://opencv.org/)
-- ![Sinch](https://www.sinch.com/)
+- [Python](https://www.python.org/) 
+- [OpenCV](https://opencv.org/)
+- [Sinch](https://www.sinch.com/)
 
 ## Problem we are solving: 
 Our vision is to avoid using doorbells instead when a person comes to someone's house he/she will look at camera then the camera sends notification to the user.
@@ -24,15 +24,15 @@ python3 Cleanbell.py
 ```
 
 ### Youtube link for the implementation
-![](https://youtu.be/lK9VEIzOGI8)
+- https://youtu.be/lK9VEIzOGI8
 
 
 ### Contributors of Project:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img src="" width="100px;" alt=""/><br /><sub><b>Kritika Parmar</b></sub></a></td>
-    <td align="center"><a href="https://github.com/yashaswibiyahut"><img src="https://avatars1.githubusercontent.com/u/32020835?s=400&u=2bc1c105d1ddba1c710afd7792941ba25d0a78dd&v=4" width="100px;" alt=""/><br /><sub><b>Prachi Bindal</b></sub></a></td>
-    <td align="center"><a href="https://github.com/SANKET7738"><img src="https://avatars2.githubusercontent.com/u/60286107?s=460&u=17bfa4a98b6472549ce7bcb025b861c8d653426d&v=4" width="100px;" alt=""/><br /><sub><b>Aayush</b></sub></a></td>
-    <td align="center"><a href="https://github.com/balapriyac"><img src="https://avatars1.githubusercontent.com/u/47279635?s=400&u=f5166ac287b4feceab836d08b5e8766932de84da&v=4" width="100px;" alt=""/><br /><sub><b>Abhinav Jain</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Prachi0203"><img src="" width="100px;" alt=""/><br /><sub><b>Prachi Bindal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Aayush</b></sub></a></td>
+    <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Abhinav Jain</b></sub></a></td>
   </tr>
 </table>
