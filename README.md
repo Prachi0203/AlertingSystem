@@ -1,5 +1,5 @@
 # Clean Bell
-### Avoid Contact Stay Intact
+##### Avoid Contact Stay Intact
 
 # Technologies used
 - [Python](https://www.python.org/) 
@@ -30,9 +30,9 @@ python3 Cleanbell.py
 ### Contributors of Project:
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img src="" width="100px;" alt=""/><br /><sub><b>Kritika Parmar</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Prachi0203"><img src="" width="100px;" alt=""/><br /><sub><b>Prachi Bindal</b></sub></a></td>
-    <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Aayush</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kritikaparmar-programmer"><img src="https://avatars1.githubusercontent.com/u/59971890?s=460&u=f58bbd406bcbc2702101d9a2adf59e72e0cb838c&v=4" width="100px;" alt=""/><br /><sub><b>Kritika Parmar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Prachi0203"><img src="https://avatars2.githubusercontent.com/u/58703496?s=460&u=bff1922e0bcb6878f039b9961a568cbad6021cbb&v=4" width="100px;" alt=""/><br /><sub><b>Prachi Bindal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/AayushSaini101"><img src="https://avatars1.githubusercontent.com/u/60972989?s=460&u=1f5c557fd1ce49c53307a129ae1ee42ccd1bb570&v=4" width="100px;" alt=""/><br /><sub><b>Aayush Saini</b></sub></a></td>
     <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Abhinav Jain</b></sub></a></td>
   </tr>
 </table>
