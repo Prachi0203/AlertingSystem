@@ -6,8 +6,8 @@ import requests
 client = clx.xms.Client(service_plan_id='7cd0ec2b5cd64b9e838a70aabbe531e1', token='71469a83d0d84cc7965f120d57f04599')
 
 create = clx.xms.api.MtBatchTextSmsCreate()
-create.sender = '447537404817'
-create.recipients = {'918882057962'}
+create.sender = 'sender's no.'
+create.recipients = {'recipent's no.'}
 create.body = 'This is a test message from your Sinch account'
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
